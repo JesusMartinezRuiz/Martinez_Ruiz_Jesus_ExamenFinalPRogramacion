@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">canal1</string>
+    <string name="channel_description">Canal de prueba</string>
+    <string name="extenso_relato">
+        Extenso relato dice así: Desde que en la Antigüedad grecolatina las explicaciones
+        filosóficas y científicas entraron en competencia con las míticas, la palabra mito se cargó
+        en ciertos contextos de un valor peyorativo, llegando a utilizarse de forma laxa como
+        sinónimo de patraña, creencia extendida pero falsa. También es común el uso un tanto laxo de
+        mito y mítico (o leyenda y legendario) para referirse a personajes históricos o
+        contemporáneos.
+    </string>
+
+    <string-array name="ej1_planetas_nombres">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>La Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+    <string-array name="ej1_planetas_tipo">
+        <item>Rocoso</item>
+        <item>Rocoso</item>
+        <item>Rocoso</item>
+        <item>Rocoso</item>
+        <item>Gaseoso</item>
+        <item>Gaseoso</item>
+        <item>Gaseoso</item>
+        <item>Gaseoso</item>
+    </string-array>
+
+    <integer-array name="ej1_planetas_img">
+        <item>@drawable/mercurio</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/tierra</item>
+        <item>@drawable/marte</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturno</item>
+        <item>@drawable/urano</item>
+        <item>@drawable/neptuno</item>
+    </integer-array>
+
+    <string name="SP_swi_notif">notif_Switch</string>
+    <bool name="SP_swi_notif_def">false</bool>
+
+    <string name="SP_desactivar">desactivar_switch</string>
+    <bool name="SP_desactivar_def">true</bool>
+
+    <string name="SP_cuentaAtras">CuentaAtras</string>
+    <integer name="SP_cuentaAtras_def">5</integer>
+    
+</resources>
